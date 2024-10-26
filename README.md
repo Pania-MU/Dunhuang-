@@ -1,5 +1,5 @@
 # DUNHUANG
-Dunhuang Murals Recognition Project
+Dunhuang murals Recognition Project
 ==========
 
 Introduction
@@ -10,7 +10,7 @@ This project is a collaborative effort between Dr. Yanjie Mu from the Institute 
 Objective
 -----
 
-The goal of this project is to research and implement an algorithm that can automatically identify and segment images of thousand Buddhas and Buddha heads from photographs of Dunhuang murals. This will aid in the preservation and study of these cultural artifacts by facilitating their digital archiving and analysis.
+The goal of this project is to research and implement an algorithm that can automatically identify and segment images of multi Buddhas and Buddha heads from photographs of Dunhuang murals This will aid in the preservation and study of these cultural artifacts by facilitating their digital archiving and analysis.
 
 Current Status
 -----
@@ -27,4 +27,4 @@ NVIDIA 3090 graphics card (or equivalent)
 Acknowledgments
 -----
 
-Special thanks to Dr. Kaiyi Peng and Dr. Maolin Peng for their invaluable contributions to this project. Additional acknowledgments and credits will be added as necessary. 
+Special thanks to Dr. Kaiyi Peng and Dr. Maolin Peng for their invaluable contributions to this project. 
